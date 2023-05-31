@@ -5,8 +5,6 @@
 <a href="mailto: pixelfedericoh@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 <a href="https://t.me/pixelfederico"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
 ### Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PixelFederico&show_icons=true&theme=dracula)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills:
