@@ -1,5 +1,3 @@
 # Welcome to my profile 👋
-### Contacts
-<a href="mailto: pixelfedericoh@gmail.com">You can contact me via email!</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelFederico&layout=compact&theme=radical)
+![Top Langs](https://gitstats.pixelfederico.com/api/top-langs?username=pixelfederico&layout=compact&langs_count=8&hide_values=true&theme=catppuccin_mocha)
